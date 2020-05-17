@@ -10,3 +10,7 @@ console.log('Olá, eu sou '+nome+' '+sobrenome+'\n minha profissão é '+profiss
 console.log(`Ola, meu nome é ${nome +' '+ sobrenome} e minha profissão é ${profissao} `)
 
 console.log(`O resultado de 1+1 é : ${1+1}`)
+
+//json usando literals 
+
+console.log(`O objeto json ${{chave:'valor'}}`)
